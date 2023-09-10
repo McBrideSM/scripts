@@ -1,3 +1,3 @@
 Shawn McBride
-Descrition: learning how to set up github
+Description: learning how to set up github
 
