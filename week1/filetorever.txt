@@ -1,0 +1,2 @@
+Shawn McBride
+working on step 7 "make some changes and revert" nlab - using git with git hub

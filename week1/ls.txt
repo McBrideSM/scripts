@@ -1,0 +1,6 @@
+filetorever.txt
+git
+gitlogafter.txt
+gitlogbefore.txt
+gitreset.tx
+ls.txt

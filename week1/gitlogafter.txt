@@ -1,0 +1,17 @@
+commit ecf7b685208da75f38be0d0b4e391f0c76646f6b
+Author: mcbridesm <mcbride@madisoncollege.edu>
+Date:   Sun Sep 10 10:39:30 2023 -0500
+
+    Intial commit of GitHub exercise.
+
+commit 55bdb2173da794c61fa07a8380eb23095f47a30e
+Author: mcbridesm <mcbride@madisoncollege.edu>
+Date:   Sun Sep 10 10:38:46 2023 -0500
+
+    Intial commit of GitHub exercise.
+
+commit 07136b5509a65c4eeafdae53b535edc7ac811a6e
+Author: mcbridesm <mcbride@madisoncollege.edu>
+Date:   Fri Sep 8 16:04:55 2023 -0500
+
+    intial commit of Github exercise.
